@@ -7,7 +7,7 @@ class Box
     b=y;
     w=z;
   }
-  display()
+  void display()
   {
     System.out.println("length="+l);
     System.out.println("breadth="+b);
