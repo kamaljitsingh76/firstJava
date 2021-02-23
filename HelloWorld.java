@@ -5,7 +5,7 @@
 public class HelloWorld {
   public static void main(String[] args) 
   {
-    Box b=new Box(10,4,2);
+    SquareBox b=new SquareBox(10,4,2, 8);
     b.display();
   }
 }
